@@ -24,7 +24,7 @@ Flexbox
 
 1. Clone repo   
 ```
-git clone https://github.com/react-native-training/materials.git
+git clone https://github.com/alimurtadho/React-Fundamentals.git
 ```
 
 2. Install dependencies   
